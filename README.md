@@ -21,6 +21,10 @@ Raza Photos turns your Mac into a private photo server. Open the app on your Mac
 - iPhone or iPad running iOS 26 or later
 - All devices on the same Wi-Fi network
 
+## Privacy Policy
+
+Raza Photos collects no personal data. No telemetry, no analytics, no tracking. Your photos and metadata never leave your local network. Nothing is transmitted to any server outside your home.
+
 ## Support
 
 For help or feedback, email: [razaphotos@outlook.com](mailto:razaphotos@outlook.com)
