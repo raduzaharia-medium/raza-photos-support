@@ -23,4 +23,4 @@ Raza Photos turns your Mac into a private photo server. Open the app on your Mac
 
 ## Support
 
-For help or feedback, email: razaphotos@outlook.com
+For help or feedback, email: [razaphotos@outlook.com](mailto:razaphotos@outlook.com)
