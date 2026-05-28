@@ -8,6 +8,8 @@ Raza Photos turns your Mac into a private photo server. Open the app on your Mac
 
 ## Features
 
+- [Import your local photo library](https://raduzaharia-medium.github.io/raza-photos-support/METADATA_READ)
+- [Write metadata](https://raduzaharia-medium.github.io/raza-photos-support/METADATA_WRITE) back to the photos in the library
 - Seamless network discovery and connectivity
 - Multiple servers with separate libraries, all devices will see all photos
 - Tag photos with albums, people, events and locations on any device in the network
